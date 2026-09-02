@@ -55,15 +55,22 @@
 ## Links
 
 ````
+
+
 [Visite o Github](https://github.com/italoumiji-dev/Sintaxe_markdown)
 
 [Simple Badges](https://badges.pages.dev/)
+
+![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=for-the-badge) 
 
 [Entrar em outro arquivo do projeto](./Vazio.md) (Usar o . para procurar pelos projetos, e / para procurar pastas)
 ````
+
+
 [Visite o Github](https://github.com/italoumiji-dev/Sintaxe_markdown)
 
-[Simple Badges](https://badges.pages.dev/)
+[Simple Badges](https://badges.pages.dev/)  
+![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=for-the-badge)
 
 [Entrar em outro arquivo do projeto](./Vazio.md) (Usar o . para procurar pelos projetos, e / para procurar pastas)
 
