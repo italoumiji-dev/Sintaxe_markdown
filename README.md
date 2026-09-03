@@ -96,3 +96,38 @@ git commit -m "Comentário"
 git push origin main
 ````
 
+## Citações
+
+> Uma boa documentação explica o objetivo, o uso e as limitações do projeto
+````
+> Uma boa documentação explica o objetivo, o uso e as limitações do projeto
+````
+
+## Tabelas
+
+| Tecnologias | Finalidades |
+| ---| --- |
+|Git| Controle de versionamento|
+|Github|Hospetagem e colaboração|
+Markdown|Documentação|
+
+| Alinhamento à esquerda | Alinhamento centro | Alinhamento à direita|
+| :--- | :---: | ---:|
+| Esquerda | Meio | Direita|
+
+````
+| Tecnologias | Finalidades |
+| ---| --- |
+|Git| Controle de versionamento|
+|Github|Hospedagem e colaboração|
+Markdown|Documentação|
+
+| Alinhamento à esquerda | Alinhamento centro | Alinhamento à direita|
+| :--- | :---: | ---:|
+| Esquerda | Meio | Direita|
+````
+## Imagens
+![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat)
+![Homer](./img/homer-simpson-icegif-9.gif)
